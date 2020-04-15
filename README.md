@@ -12,13 +12,11 @@
 
 * 사용 기술 및 개발환경
    - O/S : Windows 10 
-   - Front-end : HTML, CSS, Javascript, jQuery, AJAX, BootStrap, summernote, FullCalendar, sweetalert2, 
-   Owl-Carousel 2, HighChart, Masonry, Video.js
-   - Back-end : Java, Spring Framework, Apache Tomcat 7, Orcale 10g, MyBatis, JavaMail API, node.js, npm, express, fluent-FFmpeg  
+   - FrontEnd : HTML, CSS, Javascript, jQuery, AJAX, BootStrap, summernote, FullCalendar, sweetalert2, Owl-Carousel 2, Moment.js, Font Awesome, Google Fonts
+   - Back-end : Java, Spring Framework, Apache Tomcat 7, Orcale 10g, MyBatis, JavaMail API
    - Programming Language : JAVA(JDK 1.8), HTML, JavaScript 
-   - Open API : Kakao Developer, Naver Developer, 다음 우편번호 찾기 API, 스마트택배 API, 청기와랩 API, 
-   I'MPORT API, 채널톡
-   - Tool : Github, StarUML, SQL Developer, Eclipse, Visual Studio Code, OvenApp, FFmpeg, OpenSSL 
-    
+   - Open API : Kakao Developer, Naver Developer, 스마트택배 API, 청기와랩 API, I'MPORT API, Youtube API, 한국영화데이터베이스 API, 영화관입장권통합전산망 API 
+   - Tool : Github, StarUML, DBeaver, Eclipse, Visual Studio Code, Bracket, OvenApp, Selenium    
+   
 -----
 # 내  용
