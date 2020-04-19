@@ -20,7 +20,6 @@
 -----
 # 내  용
 * 자  료
-	- [발표 PPT(Slideshare)](https://www.slideshare.net/secret/DUE58PqoBENXdU)
 	- [개인 포트폴리오(Slideshare)](https://www.slideshare.net/haengjee/3-232248476) 
 	- [전체 동작영상](https://www.youtube.com/watch?v=fTofMrUJzwc&t=2s)
 	- [개인파트 동작영상](https://www.youtube.com/watch?v=1VEgMq3sTBU)
