@@ -1,4 +1,4 @@
-#  프랜차이즈 3사 통합 예매 시스템 "뭅뭅뭅"
+#  프랜차이즈 3사 통합 예매 시스템 "뭅뭅뭅" _ 허지행 
 
 # 자  료
    - [개인 포트폴리오 PPT(Slideshare)](https://www.slideshare.net/haengjee/3-232248476)
