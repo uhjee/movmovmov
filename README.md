@@ -1,7 +1,8 @@
 #  프랜차이즈 3사 통합 예매 시스템 "뭅뭅뭅"
 
 # 자  료
-   - [개인 포트폴리오 PPT(Slideshare)](https://www.slideshare.net/haengjee/3-232248476) 
+   - [개인 포트폴리오 PPT(Slideshare)](https://www.slideshare.net/haengjee/3-232248476)
+   - [프로젝트 보고서(PDF)](https://drive.google.com/file/d/1ZmJUZnb07EfoIXLxfyB96BLmANwTlXIB/view?usp=sharing)
    - [전체 구현영상(youtube)](https://youtu.be/8sUll4QXzOY)
 
 # 개   요
