@@ -26,10 +26,10 @@
 + 영화정보관리
 
 <img width="1549" alt="movieList" src="https://user-images.githubusercontent.com/51398029/84229579-e35e4580-ab24-11ea-970f-f6a5d17ff828.png">
-<center>상영작 목록 조회</center>
+<p align="center" style="color:grey">상영작 목록 조회</p>
 <br/>   
 <img width="1556" alt="movieInfo" src="https://user-images.githubusercontent.com/51398029/84229583-e5c09f80-ab24-11ea-9d78-e446fd17af80.png">
-<center>영화 상세 조회</center>
+<p align="center">영화 상세 조회</p>
 <br/>
    - 상영중인 또는 상영예정인 영화들의 정보들과 예매율, 평점, 보고싶어요, 한줄평 등을 관리하는 모듈입니다.
    - 영화에 대한 정보는 selenium을 이용하여 크롤링을 통해 Daum 영화에서 상영정보를 얻고, 영화에 대한 상세정보는 한국영화데이터베이스 API를 사용하여 관리하였습니다.
@@ -37,6 +37,7 @@
 
 + 결제
 <img width="1406" alt="payment" src="https://user-images.githubusercontent.com/51398029/84229587-e9542680-ab24-11ea-9674-9327155eeefd.png">
+<p align="center">결제 정보 입력</p>
 
 
 ## 사용 기술 및 개발환경
