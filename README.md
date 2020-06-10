@@ -2,7 +2,7 @@
 
 <div>
 <img width="1600" alt="mainPage" src="https://user-images.githubusercontent.com/51398029/84228251-81501100-ab21-11ea-9a31-b2f1dd48c46f.png">
-   <p align="center">[그림.1]메인페이지</p>
+   <p align="center">[그림 1]메인페이지</p>
 </div>
 
    기존의 영화 예매사이트에서는 상영시간표와 좌석의 확인을 위해 프랜차이즈 영화 사이트 별로 오가며 비교해야하는 번거로움이 있었습니다. 이러한 불편함을 해소하기 위해 '뭅뭅뭅'은 CGV, 메가박스, 롯데시네마 3사의 예매정보를 한눈에 비교하고, 예매할 수 있는 서비스를 제공합니다.
@@ -26,10 +26,10 @@
    ### <영화정보관리>
    <div>
    <img width="1600" alt="movieList" src="https://user-images.githubusercontent.com/51398029/84229579-e35e4580-ab24-11ea-970f-f6a5d17ff828.png">
-   <p align="center">[그림.2]상영작 목록 조회</p>
+   <p align="center">[그림 2]상영작 목록 조회</p>
    <br/>   
    <img width="1600" alt="movieInfo" src="https://user-images.githubusercontent.com/51398029/84229583-e5c09f80-ab24-11ea-9d78-e446fd17af80.png">
-   <p align="center">[그림.3]영화 상세 조회</p>
+   <p align="center">[그림 3]영화 상세 조회</p>
    <br/>
    </div>
 
@@ -40,10 +40,10 @@
    - 평점, 보고싶어요, 한줄평 등은 Ajax를 이용하여 비동기 요청으로 구현하였습니다.
 
    ### <결  제>
-   <img width="1600" alt="payment" src="https://user-images.githubusercontent.com/51398029/84233098-a1d19880-ab2c-11ea-8389-5486ccb52e2c.png">
-   <p align="center">[그림.4]결제 정보 입력</p>
+   <img width="1600" alt="payment" src="https://user-images.githubusercontent.com/51398029/84233378-32a87400-ab2d-11ea-801c-c2f108a0884e.png">
+   <p align="center">[그림 4]결제 정보 입력</p>
    <img width="1600" alt="paymentByApi" src="https://user-images.githubusercontent.com/51398029/84233114-a6964c80-ab2c-11ea-8f61-892d4df5784f.png">
-   <p align="center">[그림.5]결제 API(I'mport) 사용</p>
+   <p align="center">[그림 5]결제 API(I'mport) 사용</p>
    
    - 상영중인 또는 상영예정인 영화들의 정보들과 예매율, 평점, 보고싶어요, 한줄평 등을 관리하는 모듈입니다.
    
