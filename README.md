@@ -67,6 +67,9 @@
 * Tool : Github, StarUML, DBeaver, Eclipse, Visual Studio Code, Bracket, OvenApp, Selenium    
 
 <img width="1300" alt="tech00" src="https://user-images.githubusercontent.com/51398029/84234719-a9df0780-ab2f-11ea-8212-e9c49156c9c6.png">
+<p align="center">[그림 6]사용기술 및 개발환경 -1</p>
 <img width="1300" alt="tech01" src="https://user-images.githubusercontent.com/51398029/84234733-aea3bb80-ab2f-11ea-84cd-643d0c3d84ee.png">
------
+<p align="center">[그림 7]사용기술 및 개발환경 -2</p>
+
+---
 
