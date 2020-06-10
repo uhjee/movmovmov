@@ -1,7 +1,7 @@
 #  프랜차이즈 3사 통합 예매 시스템 "뭅뭅뭅" _ 허지행 
 
 <div>
-<img width="1560" alt="mainPage" src="https://user-images.githubusercontent.com/51398029/84228251-81501100-ab21-11ea-9a31-b2f1dd48c46f.png">
+<img width="1600" alt="mainPage" src="https://user-images.githubusercontent.com/51398029/84228251-81501100-ab21-11ea-9a31-b2f1dd48c46f.png">
    <p align="center">[그림.1]메인페이지</p>
 </div>
 
@@ -25,10 +25,10 @@
 ## 3. 담당모듈
    ### <영화정보관리>
    <div>
-   <img width="1549" alt="movieList" src="https://user-images.githubusercontent.com/51398029/84229579-e35e4580-ab24-11ea-970f-f6a5d17ff828.png">
+   <img width="1600" alt="movieList" src="https://user-images.githubusercontent.com/51398029/84229579-e35e4580-ab24-11ea-970f-f6a5d17ff828.png">
    <p align="center">[그림.2]상영작 목록 조회</p>
    <br/>   
-   <img width="1556" alt="movieInfo" src="https://user-images.githubusercontent.com/51398029/84229583-e5c09f80-ab24-11ea-9d78-e446fd17af80.png">
+   <img width="1600" alt="movieInfo" src="https://user-images.githubusercontent.com/51398029/84229583-e5c09f80-ab24-11ea-9d78-e446fd17af80.png">
    <p align="center">[그림.3]영화 상세 조회</p>
    <br/>
    </div>
@@ -40,8 +40,16 @@
    - 평점, 보고싶어요, 한줄평 등은 Ajax를 이용하여 비동기 요청으로 구현하였습니다.
 
    ### <결  제>
-   <img width="1406" alt="payment" src="https://user-images.githubusercontent.com/51398029/84229587-e9542680-ab24-11ea-9674-9327155eeefd.png">
+   <img width="1600" alt="payment" src="https://user-images.githubusercontent.com/51398029/84233098-a1d19880-ab2c-11ea-8389-5486ccb52e2c.png">
    <p align="center">[그림.4]결제 정보 입력</p>
+   <img width="1600" alt="paymentByApi" src="https://user-images.githubusercontent.com/51398029/84233114-a6964c80-ab2c-11ea-8f61-892d4df5784f.png">
+   <p align="center">[그림.5]결제 API(I'mport) 사용</p>
+   
+   - 상영중인 또는 상영예정인 영화들의 정보들과 예매율, 평점, 보고싶어요, 한줄평 등을 관리하는 모듈입니다.
+   
+   - 영화에 대한 정보는 selenium을 이용하여 크롤링을 통해 Daum 영화에서 상영정보를 얻고, 영화에 대한 상세정보는 한국영화데이터베이스 API를 사용하여 관리하였습니다.
+   
+   - 평점, 보고싶어요, 한줄평 등은 Ajax를 이용하여 비동기 요청으로 구현하였습니다.
 
 
 ## 4. 사용 기술 및 개발환경
