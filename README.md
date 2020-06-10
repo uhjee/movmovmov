@@ -11,7 +11,24 @@
    - [프로젝트 보고서(PDF)](https://drive.google.com/file/d/1ZmJUZnb07EfoIXLxfyB96BLmANwTlXIB/view?usp=sharing)
    - [전체 구현영상(youtube)](https://youtu.be/8sUll4QXzOY)
 
-# 개   요
+- - -
+# :blue_book: 목차
+### 1. [개요](https://github.com/uhjee/movmovmov/blob/master/README.md#개요)
+
+### 2. [담당모듈](https://github.com/wammelier/Euroverse/blob/master/README.md#two-담당모듈)
+
+### 3. [의존성 및 버전 정보](https://github.com/wammelier/Euroverse/blob/master/README.md#three-의존성-및-버전정보)
+
+### 4. [분석 및 설계 과정](https://github.com/wammelier/Euroverse/blob/master/README.md#four-분석-및-설계-과정)
+
+### 5. [추가학습](https://github.com/wammelier/Euroverse/blob/master/README.md#five-추가학습)
+
+### 6. [참고사항](https://github.com/wammelier/Euroverse/blob/master/README.md#six-참고-사항)
+
+- - -
+<br/>
+
+## 개   요
 * 프로젝트 명 : MovMovMov(뭅뭅뭅)
 
 * 일   정 : 2019.12.24 ~ 2020.03.12
@@ -20,7 +37,7 @@
 
 * 시스템 개요 : MVC Model2 아키텍쳐를 기반으로 한 SpringFramework를 이용하여 만든 프랜차이즈 3사 통합 예매 웹 서비스입니다. 저희 서비스는 회원관리, 영화정보관리, 예매관리, 스토어관리, 결제, 이벤트, 고객센터 모듈로 구성되어 있습니다.
 
-# 사용 기술 및 개발환경
+## 사용 기술 및 개발환경
 * O/S : Windows 10 
 * FrontEnd : HTML, CSS, Javascript, jQuery, AJAX, BootStrap, summernote, FullCalendar, sweetalert2, Owl-Carousel 2, Moment.js, Font Awesome, Google Fonts
 * Back-end : Java, Spring Framework, Apache Tomcat 7, Orcale 10g, MyBatis, JavaMail API
