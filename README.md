@@ -7,24 +7,24 @@
 기존의 영화 예매사이트에서는 상영시간표와 좌석의 확인을 위해 프랜차이즈 영화 사이트 별로 오가며 비교해야하는 번거로움이 있었습니다. 이러한 불편함을 해소하기 위해 '뭅뭅뭅'은 CGV, 메가박스, 롯데시네마 3사의 예매정보를 한눈에 비교하고, 예매할 수 있는 서비스를 제공합니다.
 
 - - -
-# 자  료
+## 자  료
    - [개인 포트폴리오 PPT(Slideshare)](https://www.slideshare.net/haengjee/3-232248476)
    - [프로젝트 보고서(PDF)](https://drive.google.com/file/d/1ZmJUZnb07EfoIXLxfyB96BLmANwTlXIB/view?usp=sharing)
    - [전체 구현영상(youtube)](https://youtu.be/8sUll4QXzOY)
 
 - - -
-# :blue_book: 목차
-### 1. [개요](https://github.com/uhjee/movmovmov/blob/master/README.md#개   요)
+## :blue_book: 목차
+* 1. [개요](https://github.com/uhjee/movmovmov/blob/master/README.md#one-개요)
 
-### 2. [담당모듈](https://github.com/wammelier/Euroverse/blob/master/README.md#two-담당모듈)
+* 2. [담당모듈](https://github.com/wammelier/Euroverse/blob/master/README.md#two-담당모듈)
 
-### 3. [의존성 및 버전 정보](https://github.com/wammelier/Euroverse/blob/master/README.md#three-의존성-및-버전정보)
+* 3. [의존성 및 버전 정보](https://github.com/wammelier/Euroverse/blob/master/README.md#three-의존성-및-버전정보)
 
-### 4. [분석 및 설계 과정](https://github.com/wammelier/Euroverse/blob/master/README.md#four-분석-및-설계-과정)
+* 4. [분석 및 설계 과정](https://github.com/wammelier/Euroverse/blob/master/README.md#four-분석-및-설계-과정)
 
-### 5. [추가학습](https://github.com/wammelier/Euroverse/blob/master/README.md#five-추가학습)
+* 5. [추가학습](https://github.com/wammelier/Euroverse/blob/master/README.md#five-추가학습)
 
-### 6. [참고사항](https://github.com/wammelier/Euroverse/blob/master/README.md#six-참고-사항)
+* 6. [참고사항](https://github.com/wammelier/Euroverse/blob/master/README.md#six-참고-사항)
 
 - - -
 <br/>
