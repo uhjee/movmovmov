@@ -6,6 +6,7 @@
 
 기존의 영화 예매사이트에서는 상영시간표와 좌석의 확인을 위해 프랜차이즈 영화 사이트 별로 오가며 비교해야하는 번거로움이 있었습니다. 이러한 불편함을 해소하기 위해 '뭅뭅뭅'은 CGV, 메가박스, 롯데시네마 3사의 예매정보를 한눈에 비교하고, 예매할 수 있는 서비스를 제공합니다.
 
+- - -
 # 자  료
    - [개인 포트폴리오 PPT(Slideshare)](https://www.slideshare.net/haengjee/3-232248476)
    - [프로젝트 보고서(PDF)](https://drive.google.com/file/d/1ZmJUZnb07EfoIXLxfyB96BLmANwTlXIB/view?usp=sharing)
@@ -13,7 +14,7 @@
 
 - - -
 # :blue_book: 목차
-### 1. [개요](https://github.com/uhjee/movmovmov/blob/master/README.md#개요)
+### 1. [개요](https://github.com/uhjee/movmovmov/blob/master/README.md#개   요)
 
 ### 2. [담당모듈](https://github.com/wammelier/Euroverse/blob/master/README.md#two-담당모듈)
 
@@ -36,6 +37,11 @@
 * 총 개발 인원 : 6명
 
 * 시스템 개요 : MVC Model2 아키텍쳐를 기반으로 한 SpringFramework를 이용하여 만든 프랜차이즈 3사 통합 예매 웹 서비스입니다. 저희 서비스는 회원관리, 영화정보관리, 예매관리, 스토어관리, 결제, 이벤트, 고객센터 모듈로 구성되어 있습니다.
+
+## 담당모듈
++ 영화정보관리
++ 
+
 
 ## 사용 기술 및 개발환경
 * O/S : Windows 10 
