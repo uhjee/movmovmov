@@ -39,7 +39,7 @@
    <p align="center">[그림 3]영화 상세 조회</p>
    <br/>
    </div>
-
+- - -
    ### <결  제>
    
    - 예매에 대한 결제, 환불, 포인트 적립, 상품권 발행 등을 관리하는 모듈입니다.
@@ -65,6 +65,8 @@
 * Open API : Kakao Developer, Naver Developer, 청기와랩 API, I'MPORT API, Youtube API, 한국영화데이터베이스 API, 영화관입장권통합전산망 API 
 
 * Tool : Github, StarUML, DBeaver, Eclipse, Visual Studio Code, Bracket, OvenApp, Selenium    
-   
+
+<img width="1300" alt="tech00" src="https://user-images.githubusercontent.com/51398029/84234719-a9df0780-ab2f-11ea-8212-e9c49156c9c6.png">
+<img width="1300" alt="tech01" src="https://user-images.githubusercontent.com/51398029/84234733-aea3bb80-ab2f-11ea-84cd-643d0c3d84ee.png">
 -----
 
