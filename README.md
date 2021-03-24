@@ -1,4 +1,4 @@
-#  프랜차이즈 3사 통합 예매 시스템 "뭅뭅뭅" _ 허지행 
+#  프랜차이즈 3사 통합 예매 시스템 "뭅뭅뭅"
 
 <div>
 <img width="1600" alt="mainPage" src="https://user-images.githubusercontent.com/51398029/84228251-81501100-ab21-11ea-9a31-b2f1dd48c46f.png">
